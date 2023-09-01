@@ -1,5 +1,5 @@
 # LINK TO VIEW THIS CODE IN COLAB: 
-# https://colab.research.google.com/github/FernandoRodriguesDeSantana/sql_alchemy_learning/blob/main/sql_alchemy.ipynb
+# https://colab.research.google.com/drive/1MOeX7YyLfW6ITqB6Al2Pu2lBXbLmVMT1?usp=sharing
 import sqlalchemy
 from sqlalchemy.orm import declarative_base
 from sqlalchemy import Column, Integer, String
